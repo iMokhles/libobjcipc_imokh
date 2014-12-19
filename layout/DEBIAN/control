@@ -1,0 +1,9 @@
+Package: com.imokhles.libobjcipc-imokh
+Name: libobjcipc-imokh
+Depends: firmware (>= 7.0), mobilesubstrate
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: 
+Maintainer: iMokhles
+Author: iMokhles
+Section: 
