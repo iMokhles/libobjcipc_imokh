@@ -1,6 +1,6 @@
 export THEOS_DEVICE_IP=127.0.0.1
 export THEOS_DEVICE_PORT=2222
-
+export SDKVERSION=8.1
 export TARGET = :clang
 export ARCHS = armv7 armv7s arm64
 TARGET_IPHONEOS_DEPLOYMENT_VERSION = 7.0
